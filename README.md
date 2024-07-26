@@ -13,5 +13,5 @@ Make sure you have the following components installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Hector711/get-telegram-group-id.git
+   cd get-telegram-group-id
