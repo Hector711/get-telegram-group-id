@@ -26,7 +26,6 @@ Este repositorio contiene un script en Python llamado `get_group_id.py` que perm
    ```bash
    pip3 install requests
    ```
-- Copia el código del script en un archivo `.py`.
 - Reemplaza `'YOUR_BOT_TOKEN'` en el script con el token real de tu bot.
 
 ## Instalación
@@ -34,7 +33,6 @@ Este repositorio contiene un script en Python llamado `get_group_id.py` que perm
 **Clona el repositorio:**
    ```bash
    git clone https://github.com/Hector711/get-telegram-group-id.git
-   cd your-repository+
    ```
 
 **Instala las dependencias:**
