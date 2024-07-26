@@ -38,4 +38,4 @@ except requests.exceptions.RequestException as e:
     print(f"Error al hacer la solicitud: {e}")
 except KeyError as e:
     print(f"Error al procesar la respuesta: {e}")
-    print(f"Estructura de la respuesta: {data}")
+    print(f"Estructura de la respuesta: {data}");
